@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youssefmkdaad
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning mechanical engineer
+- 🌱 I’m currently learning mechatronics engineer
 - 📫 How to reach me ...00201142053353
 <!---
 Youssefmkdaad/Youssefmkdaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
